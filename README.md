@@ -16,9 +16,9 @@ Presentation: "EPICv2_Docker_Fingerprinting.20072023.v5.pptx"
 
 Directories: 
 
-    **Idats:** Raw Idat directory. 
-    **shells:** Example shell scripts to run docker image.
-    **scratch:** Original location to store Illumina data, however its current incomplete becuase it takes too long to load small subsets of data via git. If requested this can be updated. 
-    **data:** Raw data used in analysis. Again, this can be updated more upon request, but still takes a lot of time.
+  Idats: Raw Idat directory. 
+  shells: Example shell scripts to run docker image.
+  scratch: Original location to store Illumina data, however its current incomplete becuase it takes too long to load small subsets of data via git. If requested this can be updated. 
+  data: Raw data used in analysis. Again, this can be updated more upon request, but still takes a lot of time.
 
 # End of file
