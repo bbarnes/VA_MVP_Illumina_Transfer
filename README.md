@@ -17,6 +17,8 @@ Presentation: "EPICv2_Docker_Fingerprinting.20072023.v5.pptx"
 Directories: { Idats, shells, scratch,data }
 
     data: Raw data used in analysis. Again, this can be updated more upon request, but still takes a lot of time.
+
+    fingerprint_vcfs: This directory contains fingerprints using the codes described in the EPICv2_Docker_Fingerprinting Power Point. 
     
     idats: Raw Idat directory.
     
