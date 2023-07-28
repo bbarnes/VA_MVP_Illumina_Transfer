@@ -1,6 +1,13 @@
 # VA_MVP_Illumina_Transfer
 GitHub Transfer Directory
 
+Final Summary: "snv_cellLine_agreement"
+  Columns: { Probe_ID,Probe_Source, Samples..}
+
+  Probe_ID: SNV Probe ID with suffix removed.
+  Probe_Source: Product or product subset the probe originated from. 
+  Samples: Remaining columns describe the Experiment Based Performance. 
+
 Summary File: "snv-consistency-table.csv"
   Columns: { Exp_Key,Product,Probe_ID,Tot_Cnt,Mat_Cnt,Per }
     
